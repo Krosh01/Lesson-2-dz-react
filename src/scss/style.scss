@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.conteiner{
+    max-width: 1255px;
+    padding: 0px 20px;
+    margin: 0 auto;
+}
+@import 'services';
+@import 'Header';
+@import 'Home';
+@import 'Portfolio';
+@import 'Nashi';
+@import 'Footer';

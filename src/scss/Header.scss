@@ -1,0 +1,51 @@
+.Header{
+    background-size:cover;
+    height: 100vh;
+    background-image: url('../assets/services/Header/Rectangle\ 1.png');
+
+}
+.Header_nav{
+    display: flex;
+    justify-content: center;
+    gap: 500px;
+}
+.Header_nav_logo{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.Title{
+    font-family: sans-serif;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 74px;
+    text-transform: uppercase;
+    color: #212733;
+}
+.SubTitle{
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+}
+.Button{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 14px 30px;
+    gap: 19px;
+    position: absolute;
+    width: 280px;
+    height: 60px;
+    left: 620px;
+    top: 250px;      
+    border: 1px solid #000000;
+}
+.Header_main{
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+}

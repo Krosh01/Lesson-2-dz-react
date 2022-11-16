@@ -1,0 +1,64 @@
+.Nashi{
+    background-image: url('../assets/services/Nashi/bgnashi.png');
+    height: 100vh;
+    background-size: cover;
+}
+.Nashi_Title{
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    color: #000000;
+    padding-left: 75px;
+}
+.Nashi_inner{
+    text-align: left;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    height: 355px;
+    width: 1112px;
+    padding-top: 250px;
+}
+.Text_content{
+    display: flex;
+    text-align: left;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+
+}
+.Nashi_cards{
+    display: flex;
+    // margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    // text-align: center;
+    padding-top: 50px;
+}
+.Nashi_cards_text1{
+    height: 48px;
+    width: 430px;
+    padding-left: 10px;
+}
+.Nashi_cards_text2{
+    height: 72px;
+    width: 430px; 
+    padding-left: 10px;
+}
+.Nashi_cards_text3{
+    height: 96px;
+    width: 430px;  
+    padding: 20px 0px 0px 10px;
+}
+.Nashi_cards_text4{
+    padding:15px 0px 0px 10px ;
+
+    height: 72px;
+    width: 430px;     
+}
+.img{
+    width: 50px;
+    height: 50px;
+}
+

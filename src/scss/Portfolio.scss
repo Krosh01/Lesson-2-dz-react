@@ -1,0 +1,48 @@
+.Portfolio_inner{
+    padding-top: 90px;
+}
+.Portfolio_Title{
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: #000000;
+}
+.Portfolio_home{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+}
+.Portfolio_Img_bg{
+    position: relative;
+}
+.Button_text2{
+    position: absolute;
+}
+.Portfolio_img_arrow{
+    padding-left: 150px;
+}
+.BUtton2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 14px 30px;
+    gap: 19px;
+    width: 229px;
+    height: 55px;
+    border: 1px solid #000000;
+    transform: translate(900px,-600px);
+}
+.Portfolio_img_scroll{
+    width: 10px;
+    display: block;
+}
+.Portfolio_inner_scroll_img{
+    padding-top: 5px;
+}
